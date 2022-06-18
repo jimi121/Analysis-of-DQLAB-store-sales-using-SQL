@@ -8,7 +8,7 @@ Analysis of DQLab Store sales by using postgresql
 This project provided by DQLab, here was given the dataset contains the transactions report from 2009 until 2012 consist 5500 rows, which is the order status field has the value ‘Order Finished’, ‘Order Returned’ and ‘Order Cancelled’. All data for this project are saved in the table called dqlab_store_sales. You can see the appearance of the dataset below :
 What the task given?
 
-Through the data has given, the manager of DQLab Store wants to know :
+From the dataset the manager of DQLab Store wants to know :
 
 * Order numbers and total sales from 2009 until 2012 which order status is finished
 
